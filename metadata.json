@@ -1,0 +1,6 @@
+{
+  "name": "Pedoman Tatib SMANEKA",
+  "description": "Aplikasi digital Pedoman Tata Tertib SMA Negeri 1 Kepanjen Tahun Ajaran 2026/2027 lengkap dengan pencarian cerdas, aturan, bentuk pelanggaran, konsekuensi, materi edukasi, kuis interaktif, dan Tatib Assistant AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
